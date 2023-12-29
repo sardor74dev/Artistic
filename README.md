@@ -1,1 +1,1 @@
-"# Artistic" 
+"# Artistic - bathroom renovation website" 
